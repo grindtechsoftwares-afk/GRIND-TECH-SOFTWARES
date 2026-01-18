@@ -42,7 +42,9 @@ const HeroCarousal = () => {
             </h1>
 
             <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ipsum at risus euismod lobortis in
+            
+
+
             </p>
 
             <a
@@ -83,8 +85,9 @@ const HeroCarousal = () => {
             </h1>
 
             <p>
-              Lorem ipsum dolor sit, consectetur elit nunc suscipit non ipsum
-              nec suscipit.
+              
+
+
             </p>
 
             <a
@@ -126,8 +129,10 @@ const HeroCarousal = () => {
             </h1>
 
             <p>
-              Lorem ipsum dolor sit, consectetur elit nunc suscipit non ipsum
-              nec suscipit.
+              
+
+
+              
             </p>
 
             <a
